@@ -1,2 +1,3 @@
 # McDonald-s-sales_-Excel-power-query
 This is the McDonald's sales data analysis 
+This project involves analyzing restaurant sales data to uncover key business insights. It includes calculating total sales revenue by menu category, identifying daily order volumes, and determining the most frequently ordered menu items. The project also explores monthly revenue trends by category, average items per order, and variations in order volume based on time of day and day of the week. Additionally, it compares sales performance across categories over time and evaluates the revenue contribution of the top five menu items.
